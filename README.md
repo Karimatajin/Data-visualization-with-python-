@@ -17,3 +17,8 @@
 
 https://www.un.org/en/development/desa/population/migration/data/empirical2/migrationflows.asp
 
+
+https://cocl.us/sanfran_crime_dataset
+
+
+https://cocl.us/datascience_survey_data
